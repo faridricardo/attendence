@@ -12,3 +12,8 @@
 - Eduardo Caldera
 - Angel Moreno
 - Jesus Nuñez
+- Farid Ricardo
+- Angie Romero
+- Ricardo Sanchez
+- Joseph Mora
+- Santiago Pardo

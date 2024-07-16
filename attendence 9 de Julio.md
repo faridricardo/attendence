@@ -9,4 +9,6 @@
 - Andres Argumedo
 
 ## Grade 11:
-- 
+- Eduardo Caldera
+- Angel Moreno
+- Jesus Nuñez
